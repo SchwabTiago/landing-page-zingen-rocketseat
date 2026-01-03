@@ -20,7 +20,6 @@ O design utiliza **identidade visual moderna**, **cores vibrantes**, **tipografi
 - 📱 **Interface intuitiva**, com experiência pensada para mobile  
 - ⭐ **Depoimentos de usuários**, reforçando credibilidade e resultados  
 - 🚀 **Chamada para ação (CTA)**: baixar o app na App Store e Google Play  
-- 🔐 **Seção de privacidade e segurança**, garantindo confiança ao usuário  
 
 ---
 
