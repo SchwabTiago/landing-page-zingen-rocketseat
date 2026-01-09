@@ -18,8 +18,6 @@ O design utiliza **identidade visual moderna**, **cores vibrantes**, **tipografi
 - 🎵 **Apresentação do app**: para iniciantes e cantores em evolução  
 - 📊 **Feedback em tempo real**, mostrando progresso e desempenho do usuário  
 - 📱 **Interface intuitiva**, com experiência pensada para mobile  
-- ⭐ **Depoimentos de usuários**, reforçando credibilidade e resultados  
-- 🚀 **Chamada para ação (CTA)**: baixar o app na App Store e Google Play  
 
 ---
 
